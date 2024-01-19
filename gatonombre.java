@@ -70,6 +70,7 @@ public class gatoname {
             if (mt == 'f' || mt == 'F'){
                 System.out.println("Your generated gato name is: Lobster! Your gato's love for seafood makes this name purrfect!");
             }
+            
         }
     }
     public static void gatoGirl(char cud, char mt){
